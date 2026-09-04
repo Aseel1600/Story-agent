@@ -1,0 +1,22 @@
+{
+  "execution_mode": "agent_native",
+  "requires_openai_api": false,
+  "requires_comfyui": true,
+  "aspect_ratio": "4:5",
+  "width": 3200,
+  "height": 4000,
+  "story_pages": 32,
+  "activity_count": "18-24",
+  "age": "5-8",
+  "repair_rounds": 3,
+  "products": [
+    "story_book",
+    "coloring_book",
+    "activity_book",
+    "character_book",
+    "bedtime_edition",
+    "parent_guide",
+    "character_sheets",
+    "bonus_printables"
+  ]
+}
